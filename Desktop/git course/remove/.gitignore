@@ -1,0 +1,37 @@
+logs/
+main.log
+*.log
+
+# Ignore all files and directories listed below
+
+# Home directory settings and cache
+../../../.*
+
+# Specific folders
+../../../Documents/
+../../../Downloads/
+../../../Movies/
+../../../Music/
+../../../Pictures/
+../../../Library/
+
+# Temporary files
+*.swp
+*.log
+*.tmp
+*.zip
+*.jpeg
+*.png
+*.mp4
+*.mov
+
+# Node.js dependencies
+../../../node_modules/
+../../../package-lock.json
+../../../package.json
+
+# IDE and OS-specific files
+../../../.vscode/
+../../../.idea/
+../../../.DS_Store
+../../../Thumbs.db
