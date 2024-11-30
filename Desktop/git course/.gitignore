@@ -1,0 +1,49 @@
+# Ignore macOS Trash directory
+.Trash/
+
+# Ignore directories
+**/node_modules/
+**/.cache/
+**/package-lock.json
+**/.vscode/
+**/.DS_Store
+**/.aws/
+**/.bash_history
+**/.bash_sessions/
+**/.CFUserTextEncoding
+**/.idlerc/
+**/.ipynb_checkpoints/
+**/.ivy2/
+**/.jupyter/
+**/.metals/
+**/.mono/
+**/.npm/
+**/.oracle_jre_usage/
+**/.quokka/
+**/.redhat/
+**/.sbt/
+**/.ssh/
+**/.zsh_history
+**/.zsh_sessions/
+**/.gitconfig.swp
+
+# Ignore specific files
+**/Untitled*.ipynb
+**/*.jpeg
+**/*.jpg
+**/*.zip
+**/*.textClipping
+**/Screen Recording *.mov
+
+# Ignore personal directories
+**/Documents/
+**/Downloads/
+**/Movies/
+**/Music/
+**/Pictures/
+**/Public/
+
+# Ignore temporary or IDE files
+**/store.jsx
+**/steps/
+**/VirtualBox VMs/
