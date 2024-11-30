@@ -1,49 +1,209 @@
-# Ignore macOS Trash directory
-.Trash/
-
-# Ignore directories
-**/node_modules/
-**/.cache/
-**/package-lock.json
-**/.vscode/
-**/.DS_Store
-**/.aws/
-**/.bash_history
-**/.bash_sessions/
-**/.CFUserTextEncoding
-**/.idlerc/
-**/.ipynb_checkpoints/
-**/.ivy2/
-**/.jupyter/
-**/.metals/
-**/.mono/
-**/.npm/
-**/.oracle_jre_usage/
-**/.quokka/
-**/.redhat/
-**/.sbt/
-**/.ssh/
-**/.zsh_history
-**/.zsh_sessions/
-**/.gitconfig.swp
-
-# Ignore specific files
-**/Untitled*.ipynb
-**/*.jpeg
-**/*.jpg
-**/*.zip
-**/*.textClipping
-**/Screen Recording *.mov
-
-# Ignore personal directories
-**/Documents/
-**/Downloads/
-**/Movies/
-**/Music/
-**/Pictures/
-**/Public/
-
-# Ignore temporary or IDE files
-**/store.jsx
-**/steps/
-**/VirtualBox VMs/
+ ../../.CFUserTextEncoding
+        ../../.aws/
+        ../../.bash_history
+        ../../.bash_profile
+        ../../.bash_profile.swp
+        ../../.bash_sessions/
+        ../../.bloop/
+        ../../.cache/
+        ../../.config/
+        ../../.docker/
+        ../../.eclipse/
+        ../../.gitconfig
+        ../../.gitconfig.swp
+        ../../.idlerc/
+        ../../.ipynb_checkpoints/
+        ../../.ipython/
+        ../../.ivy2/
+        ../../.jupyter/
+        ../../.lesshst
+        ../../.metals/
+        ../../.mongodb/
+        ../../.mono/
+        ../../.msvscode.hdinsight/
+        ../../.node_repl_history
+        ../../.npm/
+        ../../.npmrc
+        ../../.oracle_jre_usage/
+        ../../.quokka/
+        ../../.redhat/
+        ../../.sbt/
+        ../../.ssh/
+        ../../.th-client/
+        ../../.vim/
+        ../../.viminfo
+        ../../.vscode/
+        ../../.zprofile
+        ../../.zprofile.pysave
+        ../../.zsh_history
+        ../../.zsh_sessions/
+        ../../.zshrc
+        ../../Applications/
+        ../../Chinmay/
+        ../ 06 eat-n-split/
+        ../.localized
+        ../03-pizaa-menu/
+        ../05 travel-list/
+        ../Academind Pro - React & TypeScript - The Practical Guide/
+        ../Advance Javascript/
+        ../Airline/
+        ../Assisgnment/
+        ../Chandu Champion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]/
+        ../Database/
+        ../Documents/
+        ../GRADUATION CERTIFICATE.jpeg
+        ../Git/
+        ../HTML CSS/
+        ../Insurance.zip
+        ../Insurance/
+        ../JS Notes by SS  2.zip
+        ../JS Notes by SS .zip
+        ../JS Notes by SS /
+        ../JSInterview copy.pdf
+        ../Jonas Exercise/
+        ../Manager Round Questions .pdf
+        ../Mongo/
+        ../NCERT/
+        ../Narendra Pawar Resume copy 2.textClipping
+        ../Narendra Pawar Resume copy 3.textClipping
+        ../Narendra Pawar Resume copy.pdf
+        ../Narendra Pawar Resume copy.textClipping
+        ../Pure React/
+        ../React By SS 2.zip
+        ../React By SS 2/
+        ../React By SS 3.zip
+        ../React By SS 4.zip
+        ../React By SS.zip
+        ../React By SS/
+        ../React Intermediate Topics/
+        ../ReactBM/
+        ../SSC .jpeg
+        "../Screen Recording 2024-07-31 at 3.43.08\342\200\257PM.mov"
+        "../Screen Recording 2024-07-31 at 3.43.08\342\200\257PM.zip"
+        ../Screenshot 2023-08-26 at 11.30.28 PM.jpg
+        ../Screenshot 2023-08-28 at 9.02.14 PM.jpg
+        ../Screenshot 2023-09-01 at 9.01.57 PM.jpg
+        ../Screenshot 2024-04-16 at 2.30.00 PM.jpg
+        ../Screenshot 2024-04-19 at 12.48.42 PM.jpg
+        ../Screenshot 2024-04-19 at 12.50.10 PM.jpg
+        ../Screenshot 2024-04-19 at 12.51.05 PM.jpg
+        ../Screenshot 2024-04-22 at 4.17.37 PM.jpg
+        ../Screenshot 2024-04-22 at 4.28.13 PM.jpg
+        ../Screenshot 2024-04-22 at 5.00.53 PM.jpg
+        ../Screenshot 2024-04-22 at 5.01.01 PM.jpg
+        ../Screenshot 2024-04-22 at 5.13.51 PM.jpg
+        ../Screenshot 2024-04-22 at 5.13.56 PM.jpg
+        ../Screenshot 2024-04-22 at 5.16.50 PM.jpg
+        ../Screenshot 2024-04-23 at 11.59.51 AM.jpg
+        ../Screenshot 2024-04-23 at 12.44.44 PM.jpg
+        ../Screenshot 2024-04-23 at 2.44.55 PM.jpg
+        ../Screenshot 2024-04-30 at 3.59.11 PM.jpg
+        ../Screenshot 2024-04-30 at 3.59.37 PM.jpg
+        ../Screenshot 2024-05-03 at 1.56.43 PM.jpg
+        ../Screenshot 2024-05-15 at 6.54.10 PM.jpg
+        ../Screenshot 2024-05-15 at 6.54.17 PM.jpg
+        ../Screenshot 2024-05-15 at 6.54.22 PM.jpg
+        ../Screenshot 2024-05-15 at 6.54.36 PM.jpg
+        ../Screenshot 2024-05-15 at 6.54.46 PM.jpg
+        ../Screenshot 2024-05-15 at 6.54.59 PM.jpg
+        ../Screenshot 2024-05-25 at 6.09.02 PM.jpg
+        ../Screenshot 2024-05-28 at 10.39.40 AM.jpg
+        ../Screenshot 2024-05-28 at 9.23.07 AM.jpg
+        ../Screenshot 2024-06-08 at 4.48.56 PM.jpg
+        ../Screenshot 2024-06-08 at 4.48.57 PM.jpg
+        ../Screenshot 2024-06-08 at 4.51.26 PM.jpg
+        ../Screenshot 2024-06-08 at 4.51.44 PM.jpg
+        ../Screenshot 2024-06-08 at 4.55.26 PM.jpg
+        ../Screenshot 2024-06-08 at 4.55.43 PM.jpg
+        "../Screenshot 2024-07-15 at 2.36.57\342\200\257PM.jpg"
+        "../Screenshot 2024-07-19 at 8.22.20\342\200\257AM.jpg"
+        "../Screenshot 2024-07-19 at 8.43.47\342\200\257AM.jpg"
+        "../Screenshot 2024-07-22 at 12.58.40\342\200\257PM.jpg"
+        "../Screenshot 2024-07-31 at 3.23.40\342\200\257PM.jpg"
+        "../Screenshot 2024-08-02 at 10.32.19\342\200\257AM.jpg"
+        "../Screenshot 2024-08-02 at 8.03.40\342\200\257PM.jpg"
+        "../Screenshot 2024-08-14 at 12.57.31\342\200\257PM.jpg"
+        "../Screenshot 2024-08-14 at 4.29.27\342\200\257PM.jpg"
+        "../Screenshot 2024-08-16 at 2.07.05\342\200\257PM.jpg"
+        "../Screenshot 2024-08-18 at 1.00.28\342\200\257PM.jpg"
+        "../Screenshot 2024-08-18 at 1.10.22\342\200\257PM.jpg"
+        "../Screenshot 2024-08-30 at 2.18.46\342\200\257PM.jpg"
+        "../Screenshot 2024-08-30 at 2.30.13\342\200\257PM.jpg"
+        "../Screenshot 2024-08-30 at 2.38.24\342\200\257PM.jpg"
+        "../Screenshot 2024-08-30 at 5.02.56\342\200\257PM.jpg"
+        "../Screenshot 2024-08-30 at 5.04.33\342\200\257PM.jpg"
+        "../Screenshot 2024-08-30 at 5.04.42\342\200\257PM.jpg"
+        "../Screenshot 2024-08-30 at 5.10.07\342\200\257PM.jpg"
+        "../Screenshot 2024-08-30 at 5.40.00\342\200\257PM.jpg"
+        "../Screenshot 2024-09-11 at 11.43.08\342\200\257AM.jpg"
+        "../Screenshot 2024-09-11 at 12.13.34\342\200\257PM.jpg"
+        "../Screenshot 2024-09-12 at 10.26.53\342\200\257AM.jpg"
+        "../Screenshot 2024-09-13 at 2.26.48\342\200\257PM.jpg"
+        "../Screenshot 2024-09-16 at 10.25.56\342\200\257AM.jpg"
+        "../Screenshot 2024-09-19 at 11.33.17\342\200\257AM.jpg"
+        "../Screenshot 2024-09-19 at 3.27.25\342\200\257PM.jpg"
+        "../Screenshot 2024-09-19 at 3.28.52\342\200\257PM.jpg"
+        "../Screenshot 2024-09-20 at 3.58.54\342\200\257PM.jpg"
+        "../Screenshot 2024-09-20 at 7.27.32\342\200\257PM.jpg"
+        "../Screenshot 2024-09-21 at 2.59.06\342\200\257PM.jpg"
+        "../Screenshot 2024-09-23 at 12.23.16\342\200\257PM.jpg"
+        "../Screenshot 2024-09-26 at 6.35.47\342\200\257PM.jpg"
+        "../Screenshot 2024-10-24 at 6.39.28\342\200\257PM.jpg"
+        "../Screenshot 2024-11-07 at 2.34.02\342\200\257PM.jpg"
+        "../Screenshot 2024-11-13 at 1.08.23\342\200\257PM.jpg"
+        "../Screenshot 2024-11-13 at 1.11.24\342\200\257PM.jpg"
+        "../Screenshot 2024-11-13 at 1.15.57\342\200\257PM.jpg"
+        "../Screenshot 2024-11-13 at 11.17.37\342\200\257AM.jpg"
+        "../Screenshot 2024-11-13 at 11.36.56\342\200\257AM.jpg"
+        "../Screenshot 2024-11-13 at 12.20.50\342\200\257PM.jpg"
+        "../Screenshot 2024-11-13 at 12.21.22\342\200\257PM.jpg"
+        "../Screenshot 2024-11-13 at 2.52.14\342\200\257PM.jpg"
+        "../Screenshot 2024-11-13 at 2.55.14\342\200\257PM.jpg"
+        "../Screenshot 2024-11-13 at 2.59.07\342\200\257PM.jpg"
+        "../Screenshot 2024-11-13 at 3.00.50\342\200\257PM.jpg"
+        "../Screenshot 2024-11-13 at 3.01.10\342\200\257PM.jpg"
+        "../Screenshot 2024-11-13 at 3.02.51\342\200\257PM.jpg"
+        ../Terminal Saved Output.txt
+        ../Test/
+        ../Udemy - Understanding TypeScript 2023 Edition/
+        ../Untitled-2024-08-27-1545.excalidraw
+        ../Untitled-2024-08-27-1545.png
+        ../app.js 16-37-57-571.js
+        ../bmc.zip
+        ../bmc/
+        ../checkingreact/
+        ../debug/
+        ../express/
+        ../rtk/
+        ../steps/
+        ../store.jsx
+        ../ultimate-react-course-main 2.zip
+        ../ultimate-react-course-main 2/
+        ../usepopcorn/
+        ../../Documents/
+        ../../Downloads/
+        ../../KafkaProducer.ipynb
+        ../../Library/
+        ../../Movies/
+        ../../Music/
+        ../../Pictures/
+        ../../Public/
+        ../../Untitled.ipynb
+        ../../Untitled1.ipynb
+        ../../Untitled2.ipynb
+        ../../Untitled3.ipynb
+        ../../Untitled4.ipynb
+        ../../Untitled5.ipynb
+        ../../Virtual Machines.localized/
+        ../../VirtualBox VMs/
+        ../../a.txt
+        ../../demo.txt
+        ../../demo/
+        ../../linux/
+        ../../moshgit/
+        ../../node_modules/
+        ../../package-lock.json
+        ../../package.json
+        ../../spotifyCaseStudy-SQL/
+        ../../web_scrape.ipynb
+        ../../workspace/
