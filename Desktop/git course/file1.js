@@ -1,3 +1,0 @@
-"ocean are blue"
-Hellothere
-
